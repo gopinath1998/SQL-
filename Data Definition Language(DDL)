@@ -1,0 +1,4 @@
+--DDL (Data Definition Language) is a type of SQL command used to define data structures(structures of a objetcs) and modify data. 
+--It creates, alters, and deletes database objects such as tables, views, indexes, and users. 
+--Examples of DDL statements include CREATE, ALTER, DROP and TRUNCATE
+
